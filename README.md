@@ -1,2 +1,3 @@
 # cuWX
-Pointer to the new repository of cuWoX
+
+This project has been moved to https://github.com/CarloRamponi/cuWoX.
